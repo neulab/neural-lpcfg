@@ -7,8 +7,6 @@
 *.pt~
 .gitignore~
 *.out~
-*.sh
-*.sh~
 *.py~
 *.json
 *.json~
